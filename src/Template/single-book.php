@@ -1,0 +1,1 @@
+<h1>You called the plugin's single-book.php template. It works!</h1>

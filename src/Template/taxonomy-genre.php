@@ -1,0 +1,1 @@
+<h1>You called the plugin's taxonomy-genre.php template. It works!</h1>
