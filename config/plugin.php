@@ -50,5 +50,13 @@ return [
             'provider' => 'provider.adminTemplate',
             'config'   => __DIR__ . '/template/page-templates.php',
         ],
+
+        /****************************
+         * Shortcodes
+         ****************************/
+        'shortcode.book'            => [
+            'provider' => 'provider.shortcode',
+            'config'   => __DIR__ . '/shortcode/book.php',
+        ],
     ],
 ];
